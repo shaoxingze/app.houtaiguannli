@@ -1,28 +1,3 @@
-# vue_shop
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 * http 是无状态的
 * 通过 cookie 在客户端记录状态
 * 通过 session 在服务器端记录状态
